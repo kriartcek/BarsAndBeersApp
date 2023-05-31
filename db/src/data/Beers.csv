@@ -1,0 +1,100 @@
+BEER_ID,BEER_NAME,PRICE,QUANTITY,CURRENCY
+0,Labietis Plava,2.24,35,EUR
+1,Lacplesis Premium,2.82,95,EUR
+2,Uzavas Tumsais Alus,4.64,97,EUR
+3,Valmiermuiza Proves Porteris No. 3,2.44,65,EUR
+4,Labietis Plava,4.46,45,EUR
+5,Labietis Peteris Apinis,2.44,45,EUR
+6,Tervetes Sencu Alus,3.03,100,EUR
+7,Valmiermuiza Proves Porteris No. 3,3.37,24,EUR
+8,Valmiermuiza Proves Porteris No. 3,4.28,0,EUR
+9,Erglis Tumsais,2.29,22,EUR
+10,Kirsu alus,2.48,52,EUR
+11,Erglis Tumsais,3.48,90,EUR
+12,Labietis Plava,4.21,51,EUR
+13,Tervetes Originalais,4.51,8,EUR
+14,Balles alus Porteris,3.86,86,EUR
+15,Lacplesis Premium,4.23,14,EUR
+16,Valmiermuiza Proves Porteris No. 3,3.59,83,EUR
+17,Tervetes Sencu Alus,2.68,25,EUR
+18,Erglis Tumsais,4.52,4,EUR
+19,Labietis Peteris Apinis,2.43,7,EUR
+20,Cesu Red Imperial,3.64,89,EUR
+21,Labietis Peteris Apinis,2.11,26,EUR
+22,Balles alus Porteris,4.8,73,EUR
+23,Tervetes Sencu Alus,3.92,24,EUR
+24,Piebalgas sencu,4.46,45,EUR
+25,Valmiermuiza Gaisais Nefiltrets,2.69,19,EUR
+26,Tervetes Originalais,2.36,32,EUR
+27,Labietis Plava,2.64,83,EUR
+28,Malduguns / Zagovor 1984,2.13,82,EUR
+29,Kirsu alus,4.79,81,EUR
+30,Malduguns Pa Kirbi,3.3,30,EUR
+31,Uzavas Gaisais Alus,3.71,11,EUR
+32,Uzavas Tumsais Alus,3.19,33,EUR
+33,Piebalgas sencu,2.41,20,EUR
+34,Lacplesis Premium,2.25,7,EUR
+35,Tervetes Sencu Alus,4.41,80,EUR
+36,Tervete Kvass Godu,4.8,63,EUR
+37,Malduguns / Zagovor 1984,3.9,12,EUR
+38,Labietis Plava,3.88,2,EUR
+39,Piebalgas sencu,4.28,13,EUR
+40,Labietis Plava,4.25,75,EUR
+41,Varpa 140,2.89,33,EUR
+42,Malduguns Kampeju Kampejs,2.35,11,EUR
+43,Valmiermuiza Proves Porteris No. 3,3.2,19,EUR
+44,Valmiermuiza Proves Porteris No. 3,2.8,37,EUR
+45,Malduguns Cilpa,4.66,71,EUR
+46,Uzavas Tumsais Alus,2.52,92,EUR
+47,Malduguns Pa Kirbi,3.09,93,EUR
+48,Valmiermuiza Proves Porteris No. 3,4.56,51,EUR
+49,Labietis Peteris Apinis,4.72,20,EUR
+50,Erglis Tumsais,4.17,14,EUR
+51,Labietis Peteris Apinis,2.54,23,EUR
+52,Malduguns / Zagovor 1984,2.37,46,EUR
+53,Varpa 140,4.59,43,EUR
+54,Malduguns Kampeju Kampejs,4.17,58,EUR
+55,Uzavas Gaisais Alus,4.1,33,EUR
+56,Aldaris Porteris,2.62,95,EUR
+57,Malduguns Cilpa,2.89,90,EUR
+58,Lacplesis Premium,2.07,39,EUR
+59,Piebalgas sencu,2.16,13,EUR
+60,Piebalgas sencu,3.32,99,EUR
+61,Malduguns Cilpa,4.45,99,EUR
+62,Kirsu alus,2.79,4,EUR
+63,Cesu Red Imperial,4.51,68,EUR
+64,Cesu Red Imperial,3.98,20,EUR
+65,Varpa 140,4.55,76,EUR
+66,Labietis Plava,4.77,62,EUR
+67,Malduguns Cilpa,3.74,35,EUR
+68,Balles alus Porteris,2.11,92,EUR
+69,Malduguns Pa Kirbi,2.77,61,EUR
+70,Labietis Peteris Apinis,3.64,12,EUR
+71,Malduguns / Zagovor 1984,3,37,EUR
+72,Malduguns Kampeju Kampejs,3.05,20,EUR
+73,Tervetes Originalais,2.63,23,EUR
+74,Lacplesis Premium,4.8,53,EUR
+75,Labietis Plava,2.42,94,EUR
+76,Erglis Tumsais,2.49,80,EUR
+77,Malduguns Kampeju Kampejs,4.67,7,EUR
+78,Erglis Tumsais,4.89,57,EUR
+79,Valmiermuiza Gaisais Nefiltrets,2.01,18,EUR
+80,Uzavas Tumsais Alus,3.02,68,EUR
+81,Aldaris Porteris,2.48,71,EUR
+82,Labietis Peteris Apinis,4.94,35,EUR
+83,Lacplesis Premium,3.99,31,EUR
+84,Kirsu alus,2.21,69,EUR
+85,Tervetes Sencu Alus,3.87,84,EUR
+86,Bruveris Meistars Kviesu,2.34,66,EUR
+87,Tervetes Originalais,2.79,40,EUR
+88,Erglis Tumsais,3.25,69,EUR
+89,Malduguns Cilpa,3.81,29,EUR
+90,Malduguns Pa Kirbi,3.16,82,EUR
+91,Labietis Plava,3.38,47,EUR
+92,Aldaris Porteris,4.12,32,EUR
+93,Valmiermuiza Gaisais Nefiltrets,4.69,64,EUR
+94,Tervete Kvass Godu,2.54,81,EUR
+95,Lacplesis Premium,2.39,100,EUR
+96,Labietis Peteris Apinis,4.27,15,EUR
+97,Cesu Red Imperial,4.5,95,EUR
+98,Erglis Tumsais,3.98,95,EUR
