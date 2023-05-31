@@ -7,28 +7,38 @@
   "private": true,
   "dependencies": {
     "@sap/cds": "^6",
+    "@sap/xssec": "^3",
     "express": "^4",
-    "hdb": "^0.19.0"
+    "hdb": "^0.19.0",
+    "passport": "^0"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve",
+    "watch-bars_and_beers": "cds watch --open bars_and_beers/webapp/index.html?sap-ui-xx-viewCache=false"
   },
   "cds": {
     "build": {
-        "tasks": [
-            {
-                "for": "hana",
-                "dest": "../db"
-            },
-            {
-                "for": "node-cf"
-            }
-        ]
+      "tasks": [
+        {
+          "for": "hana",
+          "dest": "../db"
+        },
+        {
+          "for": "node-cf"
+        }
+      ]
     },
     "requires": {
-        "db": {
-            "kind": "hana-cloud"
-        }
+      "db": {
+        "kind": "hana-cloud"
+      },
+      "auth": "xsuaa"
     }
+  },
+  "sapux": [
+    "app/bars_and_beers"
+  ],
+  "devDependencies": {
+    "@sap/ux-specification": "^1.108.6"
   }
 }
