@@ -14,6 +14,7 @@ entity Bars {
 
 };
 entity Beers {
+    key BAR_ID : KeyID;
     key BEER_ID : KeyID;
         BEER_NAME : MText;
         PRICE   : Dec;
